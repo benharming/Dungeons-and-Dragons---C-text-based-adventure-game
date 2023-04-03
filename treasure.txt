@@ -1,0 +1,10 @@
+1 Room 
+Silver ring(R),10 gold pieces each
+2 Rooms 
+Ruby necklace(N),20 gold pieces each
+3 Rooms
+Emerald bracelet(B),30 gold pieces each
+4 Rooms 
+Diamond circlet(C),40 gold pieces each
+5 Rooms
+Gem-encrusted goblet(G),50 gold pieces each
