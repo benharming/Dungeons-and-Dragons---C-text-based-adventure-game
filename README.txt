@@ -12,7 +12,7 @@ All files need to be in same directory as cpp's in order to run
 SUBMISSION INFORMATION
 ------------------------
 CSCI1300 Fall 2022 Project 3
-Author: John Schichting 
+Author: John Schichting & Ben Harming
 Recitation: 206 - Jot Kaur
 Date: Dec 1, 2022
 ------------------------
